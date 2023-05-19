@@ -9,7 +9,7 @@ This code is written based on the Faster R-CNN tutorial provided by pytorch (htt
 
 ```
 # clone the repository 
-$ git clone https://github.com/peihsuanlin5566/Faster-RCNN_lin 
+$ git clone https://github.com/Kuroflectr/Faster-RCNN 
 $ cd Faster-RCNN_lin 
 
 
